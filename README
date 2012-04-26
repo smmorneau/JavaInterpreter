@@ -13,5 +13,7 @@ Limitations:
 Does not accept multi-line functions.
 
 Usage: 
+java jInterp
+
 "control+D" on UNIX (or "control+Z" on Windows) to send end-of-file to standard 
     input and exit
