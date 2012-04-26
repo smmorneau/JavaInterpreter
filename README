@@ -4,11 +4,14 @@ Last updated: February 2012
 -----------------------------
 
 Summary:
-This is a command-line Java interpreter that utilizes reflection to mimic the behavior of the Python interpreter. 
-It compiles Java files in memory and in the same VM uses dynamic class loading to bring the code back into memory to execute it.
+This is a command-line Java interpreter that utilizes reflection to mimic the 
+    behavior of the Python interpreter. 
+It compiles Java files in memory and in the same VM uses dynamic class loading 
+    to bring the code back into memory to execute it.
 
 Limitations: 
 Does not accept multi-line functions.
 
 Usage: 
-"control+D" on UNIX (or "control+Z" on Windows) to send end-of-file to standard input and exit
+"control+D" on UNIX (or "control+Z" on Windows) to send end-of-file to standard 
+    input and exit
