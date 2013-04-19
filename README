@@ -4,7 +4,7 @@ Last updated: February 2012
 -----------------------------
 
 Summary:
-This is a command-line Java interpreter that utilizes reflection to mimic the 
+This is a command-line Java REPL that utilizes reflection to mimic the 
     behavior of the Python interpreter. 
 It compiles Java files in memory and in the same VM uses dynamic class loading 
     to bring the code back into memory to execute it.
